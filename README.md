@@ -12,16 +12,16 @@ Crea objetos sin exponer la lógica de instanciación al cliente.
 ## 🧩 Builder
 Facilita la creación de objetos complejos paso a paso.
 
-##  Adapter
+## ⚡ Adapter
 Permite que dos clases con interfaces incompatibles trabajen juntas.
 
 ## 🎨 Decorator
 Agrega funcionalidades a objetos de forma dinámica sin modificar su clase original.
 
-## ️ Strategy
+## ⚙️ Strategy
 Permite cambiar el algoritmo utilizado en tiempo de ejecución.
 
-##  Observer
+## 🔔 Observer
 Define una relación uno-a-muchos entre objetos para notificaciones automáticas.
 
 ## 🚀 Ejecución
